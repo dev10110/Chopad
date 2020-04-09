@@ -1,0 +1,25 @@
+{
+  "name": "chopad",
+  "version": "1.0.0",
+  "description": "Classic Indian board game emulated using express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dev10110/Chopad.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dev10110/Chopad/issues"
+  },
+  "homepage": "https://github.com/dev10110/Chopad#readme",
+  "dependencies": {
+    "ejs": "^3.0.2",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.3"
+  }
+}
