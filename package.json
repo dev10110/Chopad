@@ -19,7 +19,7 @@
   "homepage": "https://github.com/dev10110/Chopad#readme",
   "dependencies": {
     "ejs": "^3.0.2",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "nodemon": "^2.0.3"
   }
 }
